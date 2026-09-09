@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sdnpublishing.github.io/author-sorrel-veymere/sitemap.xml
